@@ -58,7 +58,7 @@ function App() {
     
     
     </div>
-    <div class="attribution hidden lg:block mt-14  opacity-70 text-2xl">
+    <div class="attribution hidden 2xl:block mt-14  opacity-70 text-2xl">
       Coded by <a href="#d" target='_blank' className='hover:underline' >Abraham Oñate 👨‍💻🔥</a>.
   </div>
     </div>
